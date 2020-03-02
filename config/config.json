@@ -1,0 +1,14 @@
+{
+    "email": {
+    "to": "rob@raesemann.com,marvin.alford@mosaicco.com",
+    "recipients": ["rob@raesemann.com","marvin.alford@mosaicco.com"],
+    "from": "pi_health_alerts@mosaicco.com",
+    "server": "localhost",
+    "port": "25"
+    },
+    "pi": {
+        "collective": "fzgbay62m",
+        "primary_server": "mo1u1-pi-pas01",
+        "secondary_server": "mo1u1-pi-pas02"
+    }
+}
